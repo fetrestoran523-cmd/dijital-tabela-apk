@@ -1,0 +1,6 @@
+{
+  "name": "Dijital Tabela Paneli",
+  "description": "Şube tabanlı dijital tabela yönetici paneli (Responsive masaüstü/tablet/mobil, medya kütüphanesi, playlist oluşturucu, 16:9 TV fiyat slaydı önizleme)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
